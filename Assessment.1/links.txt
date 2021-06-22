@@ -1,0 +1,8 @@
+https://www.codecademy.com/forum_questions/55ad460dd3292f1a8200050c
+https://www.w3schools.com/howto/howto_css_stacked_form.asp
+https://www.w3schools.com/html/html_forms.asp
+https://stackoverflow.com/questions/45577690/how-do-i-vertically-align-an-input-in-a-div/45577789
+https://www.w3schools.com/cssref/pr_pos_vertical-align.asp
+https://www.w3schools.com/css/css_margin.asp
+https://webapps.stackexchange.com/questions/31546/what-does-im-feeling-lucky-button-do
+https://www.w3schools.com/html/html_styles.asp
