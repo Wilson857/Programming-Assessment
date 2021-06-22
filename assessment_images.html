@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Boogle</title>
+    </head>
+    <style>
+            @keyframes move {
+                0% {
+                    left: 100%;
+                }
+                100% {
+                    left: 40%;
+                }
+            }
+            h1 {
+                font-family: Times;
+                position: relative;
+                animation-name: move;
+                animation-duration: 3s;
+                animation-fill-mode: forwards;
+            }
+            .input {
+                font-size: 22px;
+                text-align: center;
+            }
+            .centre-block {
+                 display: block;
+                 margin: auto;
+            }
+    </style>
+    <body>
+        <a href="assessment.html"><button>Simple Search</button></a>
+        <a href="assessment_advanced.html"><button>Advanced</button></a>
+        <h1>BOOGLE IMAGES</h1>
+        <form action="https://www.google.com/search?q=%tbm=isch">
+            <input class="centre-block" type="text" name="q">
+            <input class="centre-block" type="submit" value="Boogle Image Search">
+            <a><button class="centre-block">I'm Feeling Lucky</button></a>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Boogle</title>
+        <style>
+            @keyframes move {
+                0% {
+                    left: 100%;
+                }
+                100% {
+                    left: 38%;
+                }
+            }
+            h1 {
+                font-family: Times;
+                position: relative;
+                animation-name: move;
+                animation-duration: 3s;
+                animation-fill-mode: forwards;
+            }
+            .input {
+                font-size: 22px;
+                text-align: center;
+                vertical-align: baseline;
+            }
+            .centre-block {
+                 display: block;
+                 margin: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <a href="assessment.html"><button>Simple Search</button></a>
+        <a href="assessment_images.html"><button>Images</button></a>
+        <h1>BOOGLE ADVANCED</h1>
+        <div>
+            <form action="https://www.google.com/search?as_q= &as_epq= &as_oq= &as_eq= ">
+                <input class="centre-block" type="text" id="as_q" name="as_q" placeholder="All these words:">
+                <input class="centre-block" type="text" id="as_epq" name="as_epq" placeholder="This exact word or phrase:">
+                <input class="centre-block" type="text" id="as_oq" name="as_oq" placeholder="Any of these words:">
+                <input class="centre-block" type="text" id="as_eq" name="as_eq" placeholder="None of these words:">
+                <input class="centre-block" type="submit" value="Boogle Advanced Search">
+                <a><button class="centre-block">I'm Feeling Lucky</button></a>
+            </form>
+        </div>
+    </body>
+</html>

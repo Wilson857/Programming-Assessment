@@ -6,3 +6,5 @@ https://www.w3schools.com/cssref/pr_pos_vertical-align.asp
 https://www.w3schools.com/css/css_margin.asp
 https://webapps.stackexchange.com/questions/31546/what-does-im-feeling-lucky-button-do
 https://www.w3schools.com/html/html_styles.asp
+https://stackoverflow.com/questions/9264835/how-to-align-an-input-tag-to-the-center-without-specifying-the-width
+https://webapps.stackexchange.com/questions/58550/what-does-tbm-mean-in-google-search
